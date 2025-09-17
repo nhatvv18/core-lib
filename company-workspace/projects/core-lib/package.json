@@ -1,0 +1,15 @@
+{
+  "name": "@nhat9acg/core-lib",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^20.3.0",
+    "@angular/core": "^20.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "publishConfig": {
+    "registry": "https://gitlab.com/api/v4/projects/74516686/packages/npm/"
+  }
+}
